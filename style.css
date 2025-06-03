@@ -23,6 +23,6 @@ div[class ~= "ativo"] {
 }
 
 p[lang |="pt"] {
-    background-color: green;
+    color: green;
 }
 
