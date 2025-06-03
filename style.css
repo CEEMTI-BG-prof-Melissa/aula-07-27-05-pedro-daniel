@@ -26,7 +26,7 @@ div[class ^= "ativo"] {
     background-color: lightblue;
 }
 
-p[long |= "pt"]{
+p[lang |= "pt"]{
         color:blue;
 }
 
